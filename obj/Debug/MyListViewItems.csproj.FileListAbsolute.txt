@@ -1,0 +1,5 @@
+C:\Users\yangyingze\source\repos\MyUDP\MyListViewItems\obj\Debug\MyListViewItems.csproj.CoreCompileInputs.cache
+C:\Users\yangyingze\source\repos\MyUDP\MyListViewItems\bin\Debug\MyListViewItems.dll
+C:\Users\yangyingze\source\repos\MyUDP\MyListViewItems\bin\Debug\MyListViewItems.pdb
+C:\Users\yangyingze\source\repos\MyUDP\MyListViewItems\obj\Debug\MyListViewItems.dll
+C:\Users\yangyingze\source\repos\MyUDP\MyListViewItems\obj\Debug\MyListViewItems.pdb
