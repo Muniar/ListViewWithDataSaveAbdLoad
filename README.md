@@ -1,0 +1,2 @@
+# ListViewWithDataSaveAbdLoad
+C#自带的ListView不能存储数据，新建的ListView子类实现该功能
